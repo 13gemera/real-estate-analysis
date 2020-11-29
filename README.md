@@ -40,7 +40,5 @@ analysis.ipynb - this thing will show how the parsed data were tortured in a dif
 ### please, feel free to leave your comments below
 ### and come visit us again any time!
 
-![Web - scraping](https://media.giphy.com/media/LPBhHit55Xxx03lllW/giphy.gif)
-
 Best regards,
 Aidana, Yerkebulan, Bekzot and Olzhas.
